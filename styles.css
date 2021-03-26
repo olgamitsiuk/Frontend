@@ -16,5 +16,13 @@ h3{
 	text-transform: uppercase;
 	padding: 10px 50px;
 	background-color: #ccc;
-	opacity: 70%;
+	opacity: 50%;
 	text-align: center;
+}
+.form{
+	background-color: #ccc;
+	opacity: 50%;
+	display: flex;
+	flex-direction: column;
+	padding: 30px;
+}
